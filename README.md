@@ -1,41 +1,24 @@
-# 🚦 NIA × KOTSA Traffic Safety — 한국교통안전공단 연계 외부 과제
+# NIA KOTSA Traffic Safety
 
-![Status](https://img.shields.io/badge/Status-재직%20중%20수행-brightgreen)
-![Context](https://img.shields.io/badge/Context-%40DACON-2E75B6)
-![Partner](https://img.shields.io/badge/Partner-NIA%20%7C%20한국교통안전공단-blue)
-![Domain](https://img.shields.io/badge/Domain-Traffic%20Safety%20AI-red)
+NIA와 한국교통안전공단 연계 과제를 요약한 저장소입니다. 외부 기관 협업 프로젝트의 성격상 공개 가능한 범위 안에서 역할과 방향만 정리했습니다.
 
-> 데이콘 재직 중 수행하는 **NIA(한국지능정보사회진흥원)·한국교통안전공단(KOTSA) 연계 외부 과제**.
+## Snapshot
 
----
+| Item | Detail |
+| --- | --- |
+| Type | External project case study |
+| Organization | DACON, Data Science Team |
+| Period | 2025.12-present |
+| Partners | NIA, KOTSA |
+| Role | Project contributor |
+| Scope | 교통 안전 데이터 기반 AI 과제 수행 |
 
-## 📌 Context
+## Contribution
 
-- **회사**: 데이콘 (DACON) — Data Science팀
-- **기간**: 2025.12 ~ 현재
-- **파트너**: NIA (한국지능정보사회진흥원) · 한국교통안전공단 (KOTSA)
-- **과제 유형**: 교통 안전 분야 AI 외부 과제
-- **역할**: 개발 담당
+- 데이터 수집과 정제 흐름 정리에 참여했습니다.
+- 분석 및 모델링 방향을 검토했습니다.
+- 외부 기관 과제에 맞는 문서화와 결과 정리에 관여했습니다.
 
-## 🔍 Overview
+## Public Note
 
-- 교통 안전 분야에서 데이터·AI 기반 과제 수행
-- 외부 기관과의 협업 프로젝트로 연구·개발·검증 전반 참여
-
-## 🧠 Approach
-
-- 데이터 수집·정제 파이프라인 구축
-- AI 모델링·분석
-- 외부 기관과의 의사소통·결과 리포팅
-
-## 🛠 Tech Stack
-
-- Python · Pandas · scikit-learn · 시계열·Tabular 모델링 · Jupyter
-
-## 🚧 Status
-
-진행 중인 외부 과제 · 공개 가능 범위 내에서 Case Study 문서화 진행 예정.
-
----
-
-> 🔗 Portfolio: [Minsu5452](https://github.com/Minsu5452)
+진행 중인 외부 과제이므로 세부 성과, 데이터 구성, 산출물은 공개하지 않습니다.
